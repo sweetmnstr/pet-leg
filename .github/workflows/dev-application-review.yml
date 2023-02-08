@@ -1,0 +1,33 @@
+name: 'Dev Application Review'
+
+on:
+  pull_request:
+    branches:
+      - dev
+
+jobs:
+  run-linters:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [ 16.x ]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/cache@v2
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install Dependancies
+        run: yarn install --frozen-lockfile
+
+      - name: Test with coverage
+        run: yarn test:cov

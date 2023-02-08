@@ -1,0 +1,154 @@
+{
+  "internallyDisplacedPersons": {
+    "en": "Internally Displaced Persons",
+    "uk": "Внутрішньо Переміщені Особи"
+  },
+  "socialWelfarePrograms": {
+    "en": "Social Welfare Programs",
+    "uk": "Програми соціального забезпечення"
+  },
+  "pension": {
+    "en": "Pension",
+    "uk": "Субсидія"
+  },
+  "employmentIssues": {
+    "en": "Employment/Labor issues",
+    "uk": "Питання працевлаштування"
+  },
+  "registrationOfBirth": {
+    "en": "Registration of birth",
+    "uk": "Реєстрація народження"
+  },
+  "registrationOfDeath": {
+    "en": "Registration of death",
+    "uk": "Реєстрація смерті"
+  },
+  "diia": {
+    "en": "Diia and State electronic services",
+    "uk": "Дія та Державні електронні сервіси"
+  },
+  "missingPerson": {
+    "en": "Missing Person – search, recognition and declaration of death",
+    "uk": "Особа безвісти зникла – розшук, розпізнання та оголошення померлою"
+  },
+  "accessToHealthcare": {
+    "en": "Access to healthcare",
+    "uk": "Доступ до медичної допомоги"
+  },
+  "accessToEducation": {
+    "en": "Access to education",
+    "uk": "Доступ до освіти"
+  },
+  "familyRelations": {
+    "en": "Divorce, Separation and Maintenance (Family relations)",
+    "uk": "Розлучення, розлучення та утримання (сімейні відносини)"
+  },
+  "childrenAndMinors": {
+    "en": "Children and minors (adoption, temporary placement, custody/care, etc.)",
+    "uk": "Діти та неповнолітні (усиновлення, тимчасове влаштування, опіка/піклування тощо)"
+  },
+  "goingAbroad": {
+    "en": "Going abroad (all you need to know)",
+    "uk": "Виїзд за кордон (все, що потрібно знати)"
+  },
+  "rulesForPetOwners": {
+    "en": "Rules for pet owners",
+    "uk": "Правила для власників домашніх тварин"
+  },
+  "hlp": {
+    "en": "Housing, land and property (HLP)",
+    "uk": "Житло, земля та майно (HLP)"
+  },
+  "compensationForProperty": {
+    "en": "Compensation for damaged or destroyed property",
+    "uk": "Компенсація за пошкоджене або знищене майно"
+  },
+  "mortgageAndLoanIssues": {
+    "en": "Mortgage and loan issues",
+    "uk": "Питання іпотеки та кредиту"
+  },
+  "willsAndInheritance": {
+    "en": "Wills and inheritance",
+    "uk": "Заповіт і спадок"
+  },
+  "conscription": {
+    "en": "Conscription/discharge from conscription",
+    "uk": "Призов/звільнення зі строкової служби"
+  },
+  "veteransRightsAndGuarantees": {
+    "en": "Veterans rights and guarantees",
+    "uk": "Права та гарантії ветеранів"
+  },
+  "entrepreneurship": {
+    "en": "Entrepreneurship",
+    "uk": "Підприємливість"
+  },
+  "regulationOfVolunteerActivities": {
+    "en": "Regulation of volunteer activities and NGOs",
+    "uk": "Регулювання волонтерської діяльності та громадських організацій"
+  },
+  "citizenship": {
+    "en": "Citizenship, temporary and permanent residenceship",
+    "uk": "Громадянство, тимчасове та постійне проживання"
+  },
+  "reefugeesProtection": {
+    "en": "Reefugees, asylum, temporary protection seekers, etc.)",
+    "uk": "Біженці, притулку, шукачі тимчасового захисту тощо)"
+  },
+  "recoveryPersonalDocumentation": {
+    "en": "Recovery/receiving personal documentation",
+    "uk": "Відновлення/отримання особистої документації"
+  },
+  "drivingLicenseAndRegistration": {
+    "en": "Driving license and vehicles registration",
+    "uk": "Водійські права та реєстрація транспортних засобів"
+  },
+  "ukraine": {
+    "en": "Ukraine",
+    "uk": "Україна"
+  },
+  "germany": {
+    "en": "Germany",
+    "uk": "Німеччина"
+  },
+  "poland": {
+    "en": "Poland",
+    "uk": "Польща"
+  },
+  "greece": {
+    "en": "Greece",
+    "uk": "Греція"
+  },
+  "romania": {
+    "en": "Romania",
+    "uk": "Румунія"
+  },
+  "moldova": {
+    "en": "Moldova",
+    "uk": "Молдова"
+  },
+  "italy": {
+    "en": "Italy",
+    "uk": "Італія"
+  },
+  "denmark": {
+    "en": "Denmark",
+    "uk": "Данія"
+  },
+  "serbia": {
+    "en": "Serbia",
+    "uk": "Сербія"
+  },
+  "all": {
+    "en": "all",
+    "uk": "всі"
+  },
+  "online": {
+    "en": "online",
+    "uk": "онлайн"
+  },
+  "spain": {
+    "en": "Spain",
+    "uk": "Іспанія"
+  }
+}
